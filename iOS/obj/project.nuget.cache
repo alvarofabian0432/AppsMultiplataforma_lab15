@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "UvbNvg8AnkR/hm7hbf9ZHmgIzCnxNDX2PNh8PEbUsuyJuvy06O2NVybRxhz1gWdqhopoH2RwlFMEJwavOBhgMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AlvaroM\\source\\repos\\TodoRest-CRUD-API\\iOS\\TodoREST.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AlvaroM\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\AlvaroM\\.nuget\\packages\\newtonsoft.json\\10.0.3\\newtonsoft.json.10.0.3.nupkg.sha512",
+    "C:\\Users\\AlvaroM\\.nuget\\packages\\system.componentmodel.typeconverter\\4.3.0\\system.componentmodel.typeconverter.4.3.0.nupkg.sha512",
+    "C:\\Users\\AlvaroM\\.nuget\\packages\\system.net.http\\4.3.4\\system.net.http.4.3.4.nupkg.sha512",
+    "C:\\Users\\AlvaroM\\.nuget\\packages\\system.runtime.serialization.formatters\\4.3.0\\system.runtime.serialization.formatters.4.3.0.nupkg.sha512",
+    "C:\\Users\\AlvaroM\\.nuget\\packages\\system.runtime.serialization.primitives\\4.3.0\\system.runtime.serialization.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\AlvaroM\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\AlvaroM\\.nuget\\packages\\xamarin.forms\\4.6.0.726\\xamarin.forms.4.6.0.726.nupkg.sha512"
+  ],
+  "logs": []
+}
